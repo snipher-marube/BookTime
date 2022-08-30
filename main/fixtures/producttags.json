@@ -1,0 +1,11 @@
+[
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Nikey",
+    "slug": "nikey",
+    "description": "clear",
+    "active": true
+  }
+}
+]
